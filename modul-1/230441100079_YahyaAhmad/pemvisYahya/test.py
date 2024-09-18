@@ -1,0 +1,1 @@
+print ("Aku sayang angga, agus, khanif, sahaf")
