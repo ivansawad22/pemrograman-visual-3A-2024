@@ -7,7 +7,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 /**
  *
- * @author Ahmad
+ * @author Ahmad Mushofa
  */
 public class Modul_2 extends javax.swing.JFrame {
     
